@@ -1,1 +1,3 @@
-# A-study-on-the-theory-of-perception
+### A-study-on-the-theory-of-perception
+
+In recent decades, it has been claimed that human perception and decision making can be described as broadly “Bayesian”, extending into broader “predictive processing” accounts of perception, decision making, and even consciousness. This research is a discussion of evidence to check if human perception and decision making is well-accounted for by predictive processing by considering both behavioural and neural evidence and briefly touching on the degree to which this may be more broadly informative about consciousness (higher order and abstract thought). 
